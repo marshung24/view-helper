@@ -1,0 +1,18 @@
+{
+    "name": "marshung/view-helper",
+    "description": "HTML table,form code render by data structure",
+    "homepage": "https://github.com/marshung24/view-helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mars Hung",
+            "email": "tfaredxj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "marshung\\view-helper\\": "src" }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
