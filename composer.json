@@ -11,7 +11,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "marshung\\view-helper\\": "src" }
+        "psr-4": { "marshung\\view\\": "src" }
     },
     "minimum-stability": "stable",
     "require": {}
