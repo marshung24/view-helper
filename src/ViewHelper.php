@@ -20,6 +20,5 @@ class ViewHelper
      * ************** Public Function **************
      * *********************************************
      */
-    
-    public function 
+     
 }
